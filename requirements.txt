@@ -1,0 +1,10 @@
+pymupdf
+spacy
+transformers
+sentence-transformers
+faiss-cpu
+numpy
+chainlit
+langchain
+langchain-openai
+langchain-core
