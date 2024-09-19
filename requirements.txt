@@ -8,3 +8,6 @@ chainlit
 langchain
 langchain-openai
 langchain-core
+arize-phoenix                             
+arize-phoenix-evals                       
+arize-phoenix-otel                        
