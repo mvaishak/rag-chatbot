@@ -62,7 +62,7 @@ Access the Phoenix UI at `http://localhost:6006` to view real-time traces and pe
 
 ## Video Demo
 
-[Link to video demonstration]
+[https://youtu.be/DC6WQwzZbG0]
 
 ## Future Improvements
 
